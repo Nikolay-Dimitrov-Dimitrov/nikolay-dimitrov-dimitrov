@@ -8,6 +8,6 @@
 * 🚀 **Frameworks & Databases:** `Tailwind` `Bootstrap` `Bulma` `Laravel` `React` `SQL` `Node.js`
 * ⚙️ **Local Environments:** `Laragon` `XAMPP`
 * 🌿 **Version Control** `Git` `GitBash` `GitHub` `GitLab`
-* ☁️ **Deployment:** `FileZilla` `Netlify`
+* ☁️ **Deployment:** `FileZilla` `Netlify` `20i Hosting`
 * 📋 **Project Management:** `Jira` `Asana`
 * 🛠️ **Editors:** `Visual Studio Code` `Sublime Text`
