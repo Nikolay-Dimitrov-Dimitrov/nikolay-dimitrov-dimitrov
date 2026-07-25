@@ -1,6 +1,6 @@
 # Hi there, I'm Nikolay! 🛡️✨
 
-- 🔭 I’m currently studing at UniSoft QA Enginner
+- 🔭 I am currently studying QA Engineering at SoftUni.
 - 📫 How to reach me: **[https://www.linkedin.com/in/nikolay-dimitrov-qa-engineer]**
 
 ### 🛠️ My Web Development Tech Stack
