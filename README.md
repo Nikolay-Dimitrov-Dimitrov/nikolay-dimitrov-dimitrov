@@ -1,5 +1,3 @@
-**Nikolay-Dimitrov-Dimitrov/nikolay-dimitrov-dimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Nikolay! 🛡️✨
 
 - 🔭 I’m currently studing at UniSoft QA Enginner
