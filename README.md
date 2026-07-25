@@ -1,7 +1,7 @@
 # Hi there, I'm Nikolay! 🛡️✨
 
 - 🔭 I am currently studying QA Engineering at SoftUni.
-- 📫 How to reach me: **[https://www.linkedin.com/in/nikolay-dimitrov-qa-engineer]**
+- 📫 How to reach me: **https://www.linkedin.com/in/nikolay-dimitrov-qa-engineer**
 
 ### 🛠️ My Web Development Tech Stack
 * 💻 **Languages:** `HTML/CSS` `JavaScript` `PHP` `MySQL` 
