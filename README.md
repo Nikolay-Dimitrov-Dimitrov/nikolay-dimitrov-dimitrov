@@ -1,6 +1,6 @@
 # Hi there, I'm Nikolay! 🛡️✨
 
-<!-- ### 🛠️ My QA Engineering Tech Stack
+### 🛠️ My QA Engineering Tech Stack
 
 💻 Languages & Web Basics: C#, JavaScript, HTML, CSS
 🧪 Testing Methodologies: QA Fundamentals, Manual Testing, Unit Testing, Front-End Test Automation, Back-End Test Automation
@@ -8,7 +8,7 @@
 🔌 API & Back-End Testing: Postman, REST APIs, HTTP, JSON/XML, Back-End Technologies Basics
 ☁️ DevOps, Containers & Cloud: Docker, Containers & Cloud, CI/CD, Git, GitHub
 📋 Test & Project Management: Jira, Bug Reporting, Test Case Design & Execution
-🛠️ Editors & Environments: Visual Studio, Visual Studio Code, GitBash -->
+🛠️ Editors & Environments: Visual Studio, Visual Studio Code, GitBash
 
 
 ### 🛠️ My Web Development Tech Stack
@@ -20,4 +20,4 @@
 * 📋 **Project Management:** `Jira` `Asana`
 * 🛠️ **Editors & Tools:** `Visual Studio Code` `Sublime Text` `DevTools`
 
-<!-- - 📫 How to reach me: **https://www.linkedin.com/in/nikolay-dimitrov-qa-engineer** -->
+- 📫 How to reach me: **https://www.linkedin.com/in/ndimitrov-qa**
