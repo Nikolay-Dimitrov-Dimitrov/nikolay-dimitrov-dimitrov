@@ -20,4 +20,4 @@
 * 📋 **Project Management:** `Jira` `Asana`
 * 🛠️ **Editors & Tools:** `Visual Studio Code` `Sublime Text` `DevTools`
 
-- 📫 How to reach me: **https://www.linkedin.com/in/nikolay-dimitrov-qa-engineer**
+<!-- - 📫 How to reach me: **https://www.linkedin.com/in/nikolay-dimitrov-qa-engineer** -->
